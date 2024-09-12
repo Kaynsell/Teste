@@ -66,6 +66,23 @@ nav.menu ul li a:hover {
     font-size: 18px;
 }
 
+.details h3 {
+    color: #d60000;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.details p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.responsive-img {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
 .video-section {
     margin-top: 20px;
 }
